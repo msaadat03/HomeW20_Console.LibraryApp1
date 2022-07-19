@@ -1,0 +1,10 @@
+C:\Users\OMEN\source\repos\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\Console_LibraryApp1\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\Console_LibraryApp1\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\Console_LibraryApp1\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\Console_LibraryApp1\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\Console_LibraryApp1\LibraryApp1\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
